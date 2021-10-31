@@ -3,4 +3,4 @@ URL Shortener made in python.(I am a beginner so forgive me if I made some mista
 
 To run this simply copy the code in Url-shortener-main.py or download that file and run it in your python.
 
-(URL-Shortener with GUI coming soon!)
+Url shortener with GUI-->https://github.com/SidTheMiner/Url-Shortener-with-GUI-in-python
